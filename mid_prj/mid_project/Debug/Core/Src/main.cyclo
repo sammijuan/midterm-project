@@ -1,0 +1,10 @@
+../Core/Src/main.c:74:13:UART_SendString	1
+../Core/Src/main.c:88:9:UART_ReadByte	2
+../Core/Src/main.c:107:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:135:6:Morse_PlaySymbol	3
+../Core/Src/main.c:177:6:Morse_PlayWord	9
+../Core/Src/main.c:233:5:main	7
+../Core/Src/main.c:317:6:SystemClock_Config	3
+../Core/Src/main.c:376:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:420:13:MX_GPIO_Init	1
+../Core/Src/main.c:456:6:Error_Handler	1
